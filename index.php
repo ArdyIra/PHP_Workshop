@@ -17,15 +17,16 @@
 	}
 	?>
 	<footer>
-		&copy; Copyright 2023 iAmCopiedRight
-		<br>
-		<?php
-			echo daten()
-		?>
+		<section id="copyright">
+			&copy; Copyright 2023 iAmCopiedRight
+			<br>
+			<?php
+				echo daten()
+			?>
+		</section>
 	</footer>
 </body>
 
 
 </html>
-
 
